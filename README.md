@@ -1,5 +1,6 @@
 # 🚀 Stake Auto Claim Bot
 
+[![Website](https://img.shields.io/badge/Website-stakeautoclaim.bot-00ff7a?style=flat-square)](https://stakeautoclaim.bot)
 ![Next.js](https://img.shields.io/badge/Next.js-Production-black?logo=nextdotjs)
 ![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)
 ![Automation](https://img.shields.io/badge/Automation-High%20Performance-brightgreen)
