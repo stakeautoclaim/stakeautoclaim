@@ -1,5 +1,14 @@
 # 🚀 Stake Auto Claim Bot
 
+![Next.js](https://img.shields.io/badge/Next.js-Production-black?logo=nextdotjs)
+![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)
+![Automation](https://img.shields.io/badge/Automation-High%20Performance-brightgreen)
+![Crypto Payments](https://img.shields.io/badge/Crypto-USDT%20%7C%20USDC%20%7C%20SOL-orange)
+![Status](https://img.shields.io/badge/Status-Launching%20Soon-yellow)
+![License](https://img.shields.io/badge/License-Proprietary-red)
+
+---
+
 **Stake Auto Claim Bot** is a high-performance automation system designed to instantly claim bonuses on **Stake.com** with ultra-low latency.
 
 Built for speed, reliability, and ease of use, the bot runs 24/7 and ensures you never miss a bonus again — without requiring any VPS or technical setup.
@@ -95,12 +104,6 @@ Users are responsible for complying with the terms of service of any third-party
 👉 Visit **https://stakeautoclaim.bot**  
 👉 Start your free trial via Telegram  
 👉 Experience automated bonus claiming today
-
----
-
-## 📬 Contact & Updates
-
-For updates, announcements, and support, please refer to the official website and Telegram bot.
 
 ---
 
