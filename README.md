@@ -1,0 +1,1 @@
+# stakeautoclaim.bot
